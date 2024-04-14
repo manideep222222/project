@@ -1,0 +1,39 @@
+.img{
+
+    height: 10vh;
+
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    background-image: url('https://img.freepik.com/free-vector/abstract-red-circle-black-background-technology_1142-9839.jpg?w=996&t=st=1713095779~exp=1713096379~hmac=c3ea51953cb14064d7b57eae90218cc4225d6799fc6500cfb789645e4062806b');
+}
+.navbar{
+    color: white;
+    width: 100px;
+    height: 100px;
+    border: solid;
+border-color: red;
+background: linear-gradient(red,red);
+
+}
+.ragnar{
+    color: white;
+    padding-top: 190px;
+    top: 400px;
+    font-size: x-large;
+    font-family:sans-serif;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-left: 100px;
+     
+    
+}
+.para{
+    color: white;
+    padding-top:270px ;
+}
+.nav:hover{
+    color: white;
+}

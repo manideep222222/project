@@ -1,0 +1,64 @@
+.body{
+    height: 100vh;
+    background-image: url('https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/6037fd6d292fe47561a93ac4_how-to-learn-web-design.jpg');
+
+}
+.mass-body{
+    height: 100vh;
+background-image: url('https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/6037fd6d292fe47561a93ac4_how-to-learn-web-design.jpg');
+}
+.row{
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    width: 250px;
+    height: 300px;
+    background: linear-gradient(black,black);
+    border-radius: 20px;
+
+    
+    
+}
+
+.row h1{
+    color: white;
+    padding-top: -20px;
+    
+}
+.row input {
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid orange;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 15px;
+    font-family: sans-serif;
+
+}
+.heloo {
+    border-radius: 2px solid orange;
+    width: 150px;
+    height: 80px;
+    font-size: larger;
+    background: linear-gradient(white,white);
+}
+.row:hover{
+    color: blue;
+}
+.from{
+    font-size: smaller;
+    
+}
+.hii{
+    color: white;
+}
+.h2{
+    color: white;
+}

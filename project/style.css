@@ -1,0 +1,130 @@
+.manthri{
+    margin-left: auto;
+    color:white;
+
+    padding-right: 300px;
+
+text-align: center;
+}
+
+
+
+.mass-body{
+    padding-left: 30px;
+    
+    background-image: url('https://cdn.pixabay.com/photo/2015/07/09/22/45/tree-838667_1280.jpg');
+}
+.heading{
+    color: white;
+    padding-top: 100px;
+    padding-left: 30px;
+}
+.para{
+    color: white;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+.button1{
+    text-align: center;
+}
+.box1{
+    cursor: pointer;
+    width: 260px;
+    height: 370px;
+    background: linear-gradient(to top,black,black);
+    font-size:small; 
+
+   border-radius: 10px;
+
+    position: absolute;
+    top: 150px;
+    left: 700px;
+    
+}
+.box1 h4{
+    width: 220px;
+    font-family: sans-serif; 
+    text-align: center;
+    color: red;
+    font-size: 22px;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.box1 input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid orange;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 15px;
+    font-family: sans-serif;
+}
+.box1 input:focus{
+    outline: none;
+
+}
+::placeholder{
+    color: white;
+    font-family: Arial;
+}
+.ragnar{  
+    padding-left: 20px;
+    width: 220px; 
+    height: 40px; 
+    background-color: orange;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: center;
+}
+.ragnar:hover{
+    background-color: white;
+    color: red;
+}
+.box1 a{
+    font-size: medium;
+}
+.link{
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+    text-align: center;
+
+}
+.box1 .link a{ 
+    
+    text-align: center;
+}
+.par{
+    padding: 2px;
+    color: white;
+    text-align: center;
+    
+}
+.logo1{
+    color: white;
+    background: transparent;
+    height: 5vh;
+}
+.icon{
+    padding-left: 5px;
+padding-top: 3px;
+    text-align: center;
+    color: white;
+}
+.icon ion-icon{
+    padding-left: 5px;
+    padding-top: 5px;
+
+}
+.icon :hover{
+    color: green;
+}
